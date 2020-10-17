@@ -19,7 +19,7 @@ The [canned](https://docs.aws.amazon.com/AmazonS3/latest/dev/acl-overview.html#c
 Used to define the AWS provider region
 
 
-## Variables needed from other modules
+## Dependencies
 
 Variables  | Module |
 ---|---|
