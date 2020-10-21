@@ -24,5 +24,5 @@ None
 ## Dependencies
 
 Variables  | Module | Description
----|---|
+---|---|---|
 vpc_id | terraform-mod-infra | -
